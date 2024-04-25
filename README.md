@@ -16,7 +16,7 @@ Place the [configuration file](EasyEffects-Config/All-In-HD560S.json) into the f
 
 Note: When using flatpak the location of the application is most likely in `~/.var/app/`.
 
-If you are not running Easyeffects through flatpak than replace the `com.github.wwmm.easyeffects` accordingly.
+If you are not running Easyeffects through flatpak then replace the `com.github.wwmm.easyeffects` accordingly.
 
 Then simply select the preset in the top left corner of the application and enjoy (and maybe tweak to your liking).
 
